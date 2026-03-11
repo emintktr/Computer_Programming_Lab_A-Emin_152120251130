@@ -19,7 +19,7 @@ void addWord(Node*& head, string word) {
     Node* temp = head;
 
     while (temp->next != NULL) {
-        temp = temp->next;s
+        temp = temp->next;
     }
 
     temp->next = wordNode;
