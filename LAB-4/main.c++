@@ -148,6 +148,7 @@ int main() {
 
     do {
         cout << "Logistics & Cargo Distribution System by emintktr" << endl;
+        cout << "0. Exit" << endl;
         cout << "1. Arrival (Push Package)" << endl;
         cout << "2. Courier Register (Enqueue Courier)" << endl;
         cout << "3. Dispatch (Pop & Dequeue)" << endl;
